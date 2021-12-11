@@ -1,0 +1,37 @@
+[
+    {
+        "title": "",
+        "contacts": [
+            {
+                "name": "Domain Square +",
+                "role": "Club",
+                "email": "d2s@dpsrkp.net"
+            },
+            {
+                "name": "Mr. Mukesh Kumar",
+                "role": "Exun Teacher-in-Charge",
+                "email": "mukesh.kumar@dpsrkp.net"
+            },
+            {
+                "name": "Mr. Mohit Dey",
+                "role": "DS+ Teacher-in-Charge",
+                "email": "mohitendradey@dpsrkp.net"
+            },
+            {
+                "name": "Aryan Daga",
+                "role": "President",
+                "email": "r20778aryan@dpsrkp.net"
+            },
+            {
+                "name": "Riday Raheja",
+                "role": "Senior Member",
+                "email": "v07496riday@dpsrkp.net"
+            },
+            {
+                "name": "Arjun Kulshrestha",
+                "role": "Senior Member",
+                "email": "r20770arjun@dpsrkp.net"
+            }
+        ]
+    }
+]

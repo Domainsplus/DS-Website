@@ -1,0 +1,69 @@
+[
+    {
+        "year": "12th",
+        "members": [
+            {
+                "name": "Aryan Daga",
+                "role": "President"
+            },
+            {
+                "name": "Riday Raheja",
+                "role": "Senior Member"
+            },
+            {
+                "name": "Arjun Kulshrestha",
+                "role": "Senior Member"
+            },
+            {
+                "name": "Joel Joseph",
+                "role": "Member"
+            },
+            {
+                "name": "Neil Kotru Gode",
+                "role": "Member"
+            },
+            {
+                "name": "Tanmay SInghal",
+                "role": "Member"
+            }
+        ]
+    },
+    {
+        "year": "11th",
+        "members": [
+            {
+                "name": "Pratyush Aron",
+                "role": "Member"
+            },
+            {
+                "name": "Kunwar Parmar",
+                "role": "Member"
+            },
+            {
+                "name": "Yuvraaj Saigal",
+                "role": "Member"
+            }
+        ]
+    },
+    {
+        "year": "10th",
+        "members": [
+            {
+                "name": "Samedh Aggarwal",
+                "role": "Member"
+            },
+            {
+                "name": "Pratyush Vempati",
+                "role": "Member"
+            },
+            {
+                "name": "Kabeer Bawa",
+                "role": "Member"
+            },
+            {
+                "name": "Rishit Yadav",
+                "role": "Member"
+            }
+        ]
+    }
+]
