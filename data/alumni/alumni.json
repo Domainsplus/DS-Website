@@ -3,12 +3,12 @@
         "year": "2020-21",
         "alumni": [
             {
-                "name": "",
-                "role": ""
+                "name": "Kushagra Gupta",
+                "role": "President"
             },
             {
-                "name": "",
-                "role": ""
+                "name": "Jeffery Joseph",
+                "role": "Senior Member"
             },
             {
                 "name": "",
@@ -28,20 +28,20 @@
         "year": "2019-20",
         "alumni": [
             {
-                "name": "",
-                "role": ""
+                "name": "Aravind Ashok",
+                "role": "Chief Advisor"
             },
             {
-                "name": "",
-                "role": ""
+                "name": "Aaryak Garg",
+                "role": "Chief Advisor"
             },
             {
-                "name": "",
-                "role": ""
+                "name": "Samarth Bhardwaj",
+                "role": "Member"
             },
             {
-                "name": "",
-                "role": ""
+                "name": "Rajvardhan Singh",
+                "role": "Member"
             },
             {
                 "name": "",
@@ -53,23 +53,23 @@
         "year": "2018-19",
         "alumni": [
             {
-                "name": "",
+                "name": "Ishaan Saraswat",
                 "role": ""
             },
             {
-                "name": "",
+                "name": "Mehul Gupta",
                 "role": ""
             },
             {
-                "name": "",
+                "name": "Aaryaman Kumar",
                 "role": ""
             },
             {
-                "name": "",
+                "name": "Anirudh Chauhan",
                 "role": ""
             },
             {
-                "name": "",
+                "name": "Kartik Gupta",
                 "role": ""
             }
         ]
@@ -78,24 +78,36 @@
         "year": "2017-18",
         "alumni": [
             {
-                "name": "",
-                "role": ""
+                "name": "Saharsh Vedi",
+                "role": "President"
             },
             {
-                "name": "",
-                "role": ""
+                "name": "Samaksh Sharma",
+                "role": "Core Member & Hon'ble Advisor"
             },
             {
-                "name": "",
-                "role": ""
+                "name": "Veer Vaibhav",
+                "role": "Core Member & Hon'ble Advisor"
             },
             {
-                "name": "",
-                "role": ""
+                "name": "Yuvraj Marwah",
+                "role": "Core Member & Hon'ble Advisor"
             },
             {
-                "name": "",
-                "role": ""
+                "name": "Aryaman Singh",
+                "role": "Core Member & Hon'ble Advisor"
+            },
+            {
+                "name": "Siddhant Dash",
+                "role": "Core Member & Hon'ble Advisor"
+            },
+            {
+                "name": "Virshabha Jinendra",
+                "role": "Core Member & Hon'ble Advisor"
+            },
+            {
+                "name": "Ayush Singla",
+                "role": "Core Member"
             }
         ]
     },
@@ -103,8 +115,8 @@
         "year": "2016-17",
         "alumni": [
             {
-                "name": "",
-                "role": ""
+                "name": "Siddharth Maharishi",
+                "role": "Founder President"
             },
             {
                 "name": "",
