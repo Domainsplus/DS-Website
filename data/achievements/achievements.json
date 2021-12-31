@@ -2,99 +2,191 @@
     {
         "year": "2021",
         "symposium": "Binary Bots 2021",
-        "organisingSchool": "Lotus Valley International School, Gurugram",
-        "eventName": "Warriors of Verandsk",
-        "position": "2nd Position"
+        "position": "Runners Up"
     },
     {
         "year": "2021",
         "symposium": "Code Wars 2021",
-        "organisingSchool": "Delhi Public School, Vasant Kunj",
-        "eventName": "PC Gaming",
-        "position": "1st Position"
+        "position": "Winners"
     },
     {
         "year": "2021",
         "symposium": "Force Fest 2021",
-        "organisingSchool": "Apeejay School, Pansheel Park, Delhi",
-        "eventName": "Counterstrafe",
-        "position": "2nd Position"
+        "position": "Runners Up"
     },
     {
         "year": "2021",
         "symposium": "Force Fest 2021",
-        "organisingSchool": "Apeejay School, Pansheel Park, Delhi",
-        "eventName": "Consoleiem",
-        "position": "2nd Position"
+        "position": "Runners Up"
     },
     {
         "year": "2021",
         "symposium": "Minet X",
-        "organisingSchool": "Mothers International School, Delhi",
-        "eventName": "Gaming",
-        "position": "1st Position"
+        "position": "Winners"
     },
     {
         "year": "2021",
         "symposium": "Core 14",
-        "organisingSchool": "Delhi Public School, Dwarka",
-        "eventName": "Gaming",
-        "position": "1st Position"
+        "position": "Winners"
     },
     {
         "year": "2021",
         "symposium": "ProjectBeta 5.0",
-        "organisingSchool": "Sanskriti School, Delhi",
-        "eventName": "Dual Weild",
-        "position": "2nd Position"
+        "position": "Runners Up"
     },
     {
         "year": "2021",
         "symposium": "ProjectBeta 5.0",
-        "organisingSchool": "Sanskriti School, Delhi",
-        "eventName": "SideQuest",
-        "position": "2nd Position"
+        "position": "Runners Up"
     },
     {
         "year": "2021",
         "symposium": "Virus 2021",
-        "organisingSchool": "Bluebells International, Lala Lajpat Rai Rd",
-        "eventName": "Armageddon",
-        "position": "2nd Position"
+        "position": "Runners Up"
     },
     {
         "year": "2021",
         "symposium": "CODEx v3.0",
-        "organisingSchool": "Birla Vidya Niketan",
-        "eventName": "Enderwars - Minecraft Gaming",
-        "position": "3rd Position"
+        "position": "Second Runners Up"
     },
     {
         "year": "2021",
         "symposium": "imAgine.py",
-        "organisingSchool": "Ryan International, Mayur Vihar",
-        "eventName": "El Juego",
-        "position": "2nd Position"
+        "position": "Runners Up"
     },
     {
         "year": "2021",
         "symposium": "Z3N1TH",
-        "organisingSchool": "Air Force Golden Jublee Institute (futurz club)",
-        "eventName": "Frag League (Evolve or Die!)",
-        "position": "3rd Position"
+        "position": "Second Runners Up"
     },
     {
         "year": "2021",
         "symposium": "(c)ync v7.0",
-        "organisingSchool": "Delhi Public School, Bhopal",
-        "eventName": "(c)rosshair (Gaming)",
-        "position": "1st Position"
+        "position": "Winners"
     },
     {
         "year": "2021",
         "symposium": "Tethics",
-        "organisingSchool": "International Public School, Bhopal",
-        "eventName": "Gaming",
-        "position": "1st Position"
+        "position": "Winners"
+    },
+    {
+        "year": "2017",
+        "symposium": "Sync",
+        "position": "Winners"
+    },
+    {
+        "year": "2017",
+        "symposium": "Wartex #3.0",
+        "position": "Second Runners Up"
+    },
+    {
+        "year": "2017",
+        "symposium": "Alphanode",
+        "position": "Winners"
+    },
+    {
+        "year": "2017",
+        "symposium": "MINET X",
+        "position": "Second Runners Up"
+    },
+    {
+        "year": "2017",
+        "symposium": "Incognito 2017",
+        "position": "Runners Up (Quiz)"
+    },
+    {
+        "year": "2017",
+        "symposium": "TAPS Fest",
+        "position": "Runners Up"
+    },
+    {
+        "year": "2017",
+        "symposium": "Amity Cyberbuzz",
+        "position": "Winners"
+    },
+    {
+        "year": "2016",
+        "symposium": "Dynamix XV",
+        "position": "Winners (PC)"
+    },
+    {
+        "year": "2016",
+        "symposium": "Dynamix XV",
+        "position": "Second Runners Up (Console)"
+    },
+    {
+        "year": "2016",
+        "symposium": "BOT 2016",
+        "position": "Winners"
+    },
+    {
+        "year": "2016",
+        "symposium": "Virus 2016",
+        "position": "Winners"
+    },
+    {
+        "year": "2016",
+        "symposium": "Infoyage 2016",
+        "position": "Winners"
+    },
+    {
+        "year": "2016",
+        "symposium": "ProjectBeta 2016",
+        "position": "Runners Up (PC)"
+    },
+    {
+        "year": "2016",
+        "symposium": "ProjectBeta 2016",
+        "position": "Runners Up (Console)"
+    },
+    {
+        "year": "2016",
+        "symposium": "Multimedia Contest",
+        "position": "Winners"
+    },
+    {
+        "year": "2016",
+        "symposium": "Modem 2016",
+        "position": "Second Runners Up"
+    },
+    {
+        "year": "2016",
+        "symposium": "Matrix Ecomm 2016",
+        "position": "Runners Up"
+    },
+    {
+        "year": "2016",
+        "symposium": "Gateway 2016",
+        "position": "Runners Up"
+    },
+    {
+        "year": "2016",
+        "symposium": "Amity Cyberbuzz 2016",
+        "position": "Second Runners Up"
+    },
+    {
+        "year": "2015",
+        "symposium": "Silico Battles 2015",
+        "position": "Runners Up"
+    },
+    {
+        "year": "2015",
+        "symposium": "CORE 8",
+        "position": "Runners Up"
+    },
+    {
+        "year": "2015",
+        "symposium": "Minet X",
+        "position": "Second Runners Up"
+    },
+    {
+        "year": "2015",
+        "symposium": "Interface 2015",
+        "position": "Winners"
+    },
+    {
+        "year": "2015",
+        "symposium": "Gateway 2015",
+        "position": "Runners Up"
     }
 ]
