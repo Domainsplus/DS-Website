@@ -27,16 +27,12 @@ const FacultyPage = () => (
           <tr className="table-heading text-2xl">
             <th>Year</th>
             <th>Symposium</th>
-            <th>Organising School</th>
-            <th>Event</th>
             <th>Position</th>
           </tr>
         {data.map((achievement) => (
           <tr key={achievement.eventName} className='table-content text-lg border-gray-900'>
             <td className="table-components text-center border-gray-900">{achievement.year}</td>
             <td className="table-components text-center border-gray-900">{achievement.symposium}</td>
-            <td className="table-components text-center border-gray-900">{achievement.organisingSchool}</td>
-            <td className="table-components text-center border-gray-900">{achievement.eventName}</td>
             <td className="table-components text-center border-gray-900">
               <strong>{achievement.position}</strong>
             </td>
