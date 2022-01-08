@@ -11,22 +11,26 @@
                 "role": "Senior Member"
             },
             {
-                "name": "",
-                "role": ""
+                "name": "Ritvik Sharma",
+                "role": "Member"
             },
             {
-                "name": "",
-                "role": ""
+                "name": "Arnav Gupta",
+                "role": "Member"
             },
             {
-                "name": "",
-                "role": ""
+                "name": "Inayat Singh",
+                "role": "Member"
             }
         ]
     },
     {
         "year": "2019-20",
         "alumni": [
+            {
+                "name": "",
+                "role": "President"
+            },
             {
                 "name": "Aravind Ashok",
                 "role": "Chief Advisor"
@@ -42,10 +46,6 @@
             {
                 "name": "Rajvardhan Singh",
                 "role": "Member"
-            },
-            {
-                "name": "",
-                "role": ""
             }
         ]
     },
