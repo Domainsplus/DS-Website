@@ -1,6 +1,11 @@
 [
     {
         "year": "2021",
+        "symposium": "Velocity 2022",
+        "position": "Winners"
+    },
+    {
+        "year": "2021",
         "symposium": "Binary Bots 2021",
         "position": "Runners Up"
     },
