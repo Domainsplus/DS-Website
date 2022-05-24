@@ -48,8 +48,11 @@ export default function header() {
           <span className="mr-10 text-gray-100 hover:text-gray-100">
             <Link href="/achievements">Achievements</Link>
           </span>
-          <span className="text-gray-100 hover:text-gray-100">
+          <span className="mr-10 text-gray-100 hover:text-gray-100">
             <Link href="/contact">Contact</Link>
+          </span>
+          <span className="text-gray-100 hover:text-gray-100">
+            <Link href="https://exun.co/ds+/inductions22">Register</Link>
           </span>
         </nav>
       </div>
