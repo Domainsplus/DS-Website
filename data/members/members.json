@@ -3,35 +3,6 @@
         "year": "12th",
         "members": [
             {
-                "name": "Aryan Daga",
-                "role": "President"
-            },
-            {
-                "name": "Riday Raheja",
-                "role": "Senior Member"
-            },
-            {
-                "name": "Arjun Kulshrestha",
-                "role": "Senior Member"
-            },
-            {
-                "name": "Joel Joseph",
-                "role": "Member"
-            },
-            {
-                "name": "Neil Kotru Gode",
-                "role": "Member"
-            },
-            {
-                "name": "Tanmay SInghal",
-                "role": "Member"
-            }
-        ]
-    },
-    {
-        "year": "11th",
-        "members": [
-            {
                 "name": "Pratyush Aron",
                 "role": "Member"
             },
@@ -46,7 +17,7 @@
         ]
     },
     {
-        "year": "10th",
+        "year": "11th",
         "members": [
             {
                 "name": "Samedh Aggarwal",
