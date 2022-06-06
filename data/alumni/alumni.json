@@ -1,34 +1,5 @@
 [
     {
-        "year": "2021-22",
-        "members": [
-            {
-                "name": "Aryan Daga",
-                "role": "President"
-            },
-            {
-                "name": "Riday Raheja",
-                "role": "Senior Member"
-            },
-            {
-                "name": "Arjun Kulshrestha",
-                "role": "Senior Member"
-            },
-            {
-                "name": "Joel Joseph",
-                "role": "Member"
-            },
-            {
-                "name": "Neil Kotru Gode",
-                "role": "Member"
-            },
-            {
-                "name": "Tanmay Singhal",
-                "role": "Member"
-            }
-        ]
-    },
-    {
         "year": "2020-21",
         "alumni": [
             {
@@ -40,11 +11,15 @@
                 "role": "Senior Member"
             },
             {
-                "name": "Shikhar Sarangi",
+                "name": "Ritvik Sharma",
                 "role": "Member"
             },
             {
-                "name": "Alhad Sethi",
+                "name": "Arnav Gupta",
+                "role": "Member"
+            },
+            {
+                "name": "Inayat Singh",
                 "role": "Member"
             }
         ]
@@ -53,47 +28,23 @@
         "year": "2019-20",
         "alumni": [
             {
-                "name": "Aaryak Garg",
+                "name": "Saumya",
                 "role": "President"
             },
             {
-                "name": "Aditya Batra",
+                "name": "Aravind Ashok",
                 "role": "Chief Advisor"
             },
             {
-                "name": "Karan Handa",
+                "name": "Aaryak Garg",
                 "role": "Chief Advisor"
-            },
-            {
-                "name": "Sahil Dhawan",
-                "role": "Member"
             },
             {
                 "name": "Samarth Bhardwaj",
                 "role": "Member"
             },
             {
-                "name": "Haresh Nair",
-                "role": "Member"
-            },
-            {
-                "name": "Saumya Gaikwad",
-                "role": "Member"
-            },
-            {
                 "name": "Rajvardhan Singh",
-                "role": "Member"
-            },
-            {
-                "name": "Aravind Ashok",
-                "role": "Member"
-            },
-            {
-                "name": "Aatman Garg",
-                "role": "Member"
-            },
-            {
-                "name": "Sagnik Anupam",
                 "role": "Member"
             }
         ]
@@ -103,23 +54,23 @@
         "alumni": [
             {
                 "name": "Ishaan Saraswat",
-                "role": "President"
-            },
-            {
-                "name": "Aaryaman Kumar",
-                "role": "Director"
+                "role": "Member"
             },
             {
                 "name": "Mehul Gupta",
-                "role": "Hon'ble Advisor"
+                "role": "Member"
+            },
+            {
+                "name": "Aaryaman Kumar",
+                "role": "Member"
             },
             {
                 "name": "Anirudh Chauhan",
-                "role": "Hon'ble Advisor"
+                "role": "Member"
             },
             {
                 "name": "Kartik Gupta",
-                "role": "Hon'ble Advisor"
+                "role": "Member"
             }
         ]
     },
@@ -132,76 +83,31 @@
             },
             {
                 "name": "Samaksh Sharma",
-                "role": "Hon'ble Advisor"
+                "role": "Core Member & Hon'ble Advisor"
             },
             {
-                "name": "Veer Vaibhav Singh Rathore",
-                "role": "Hon'ble Advisor"
+                "name": "Veer Vaibhav",
+                "role": "Core Member & Hon'ble Advisor"
             },
             {
                 "name": "Yuvraj Marwah",
-                "role": "Hon'ble Advisor"
+                "role": "Core Member & Hon'ble Advisor"
             },
             {
                 "name": "Aryaman Singh",
-                "role": "Hon'ble Advisor"
-            },
-            {
-                "name": "Virshabha Jinendra",
-                "role": "Hon'ble Advisor"
+                "role": "Core Member & Hon'ble Advisor"
             },
             {
                 "name": "Siddhant Dash",
-                "role": "Member"
+                "role": "Core Member & Hon'ble Advisor"
+            },
+            {
+                "name": "Virshabha Jinendra",
+                "role": "Core Member & Hon'ble Advisor"
             },
             {
                 "name": "Ayush Singla",
-                "role": "Member"
-            }
-        ]
-    },
-    {
-        "year": "2016-17",
-        "alumni": [
-            {
-                "name": "Siddharth Maharishi",
-                "role": "President"
-            },
-            {
-                "name": "Aman Sidhant",
-                "role": "Vice President"
-            },
-            {
-                "name": "Sarthak Pal",
-                "role": "Vice President"
-            },
-            {
-                "name": "Shivin Suri",
-                "role": "Director"
-            },
-            {
-                "name": "Anubhav Ghosh",
-                "role": "Director"
-            },
-            {
-                "name": "Aryan Arora",
-                "role": "Hon'ble Advisor"
-            },
-            {
-                "name": "Varun Arora",
-                "role": "Member"
-            },
-            {
-                "name": "Haardik",
-                "role": "Member"
-            },
-            {
-                "name": "Ananya Chopra",
-                "role": "Member"
-            },
-            {
-                "name": "Aveneel Waadhwa",
-                "role": "Member"
+                "role": "Core Member"
             }
         ]
     }
