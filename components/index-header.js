@@ -58,7 +58,7 @@ export default function header() {
       </div>
         <div className="title-home text-gray-100">
           <h1 className="title  ">
-            Domain Square +
+            DomainSquare+
           </h1>
           <p className="subtitle">
             The Gaming Club of Delhi Public School R K Puram
